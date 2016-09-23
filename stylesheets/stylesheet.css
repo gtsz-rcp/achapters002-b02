@@ -15,6 +15,22 @@ a {
   a:hover {
     text-decoration: underline; }
 
+.marker_book:before {
+  content: "『"
+}
+
+.marker_book:after {
+  content: "』"
+}
+
+.marker_article:before {
+  content: "「"
+}
+
+.marker_article:after {
+  content: "」"
+}
+
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
