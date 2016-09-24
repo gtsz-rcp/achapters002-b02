@@ -1,4 +1,4 @@
-[achapters002 headimage](https://gtsz-rcp.github.io/achapters002-b02/assets/achs002-cover_head.jpg)
+![achapters002 headimage](https://gtsz-rcp.github.io/achapters002-b02/assets/achs002-cover_head.jpg)
 
 ## Summary
 
