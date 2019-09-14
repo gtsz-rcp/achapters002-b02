@@ -39,7 +39,7 @@ B02는 2009년 경 출간되어 80 여 권이 판매된 책입니다. 오래된 
 당시 판매된 대부분의 독립출판물, 특히 문학을 다룬 독립출판물들이 그러했듯 세계는 일말의 지체없이 이 책을 내버려두고 앞을 향해 나아갔습니다. 아마 그 순간이 이번 세기를 통틀어 이 세계가 진보했다 말할 수 있는 유일한 시점이었을 것입니다.
 
 ## External Links
-1.[Download epub package] (https://github.com/gtsz-rcp/achapters002-b02/raw/master/achapters002-B02.epub)
+1. [Download epub package](https://github.com/gtsz-rcp/achapters002-b02/raw/master/achapters002-B02.epub)
 1. [Official Website](https://gtsz-rcp.github.io/achapters002-b02/)
 2. [Github Repository](https://github.com/gtsz-rcp/achapters002-b02)
 
